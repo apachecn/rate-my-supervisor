@@ -16,7 +16,7 @@ docker run -tid -p <port>:80 apachecn0/rate-my-supervisor
 ### PYPI
 
 ```
-pip install rate-my-supervisor
+pip install RateMySupervisor
 rate-my-supervisor <port>
 # 访问 http://localhost:{port} 查看文档
 ```
