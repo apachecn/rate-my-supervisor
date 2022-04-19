@@ -1,4 +1,4 @@
-# 导师评价网备份 2020
+# 导师评价网备份
 
 * [在线阅读](https://rms.apachecn.org)
 * [在线阅读（Vercel）](https://rate-my-supervisor-1.vercel.app/)
